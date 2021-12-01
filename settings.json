@@ -1,0 +1,9 @@
+{
+    "name": "Ge",
+    "blocks": {
+        "/blockchain/flow": true,
+        "/blockchain/flow/cadence": true,
+        "/framework/vanilla": true,
+        "/category/foundation/core-ballot": true
+    }
+}
